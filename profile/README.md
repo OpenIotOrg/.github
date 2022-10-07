@@ -1,7 +1,7 @@
 # OpenIoT - The Open Source Internet of Things
 
 
-**===============================Curently the project is not maintained===============================**
+**===Curently the project is not maintained===**
 
 
 -----------------------------------------------------
